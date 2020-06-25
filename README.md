@@ -3,6 +3,7 @@ Used the PortB, PortC and PortD of the TM4C123GH6PM launch board to drive 8x8 do
 ## Circuit Diagram
 
 <img src="/Capture.PNG?raw=true">
+
 ## Components Required
 - TM4C123GH6PM launch board
 - 8X8 Matrix LED
