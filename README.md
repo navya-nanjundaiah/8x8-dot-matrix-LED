@@ -1,5 +1,8 @@
 # 8x8-dot-matrix-LED
 Used the PortB, PortC and PortD of the TM4C123GH6PM launch board to drive 8x8 dot matrix LED to simulate pedestrian traffic lights(stop sign and Walk sign )
+## Circuit Diagram
+
+<img src="/Capture.PNG?raw=true">
 ## Components Required
 - TM4C123GH6PM launch board
 - 8X8 Matrix LED
@@ -35,6 +38,3 @@ GPIO_PORTB_PDR_R=0XFF;//open drain
 ```
 - In the loop we write to turn on a stop sign for 30 seconds, then display the pattern of walk sign for 30 seconds, and then repeat.
 
-## Circuit Diagram
-
-<img src="/Capture.PNG?raw=true">
