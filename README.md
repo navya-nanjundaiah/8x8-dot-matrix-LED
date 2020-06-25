@@ -34,3 +34,7 @@ GPIO_PORTB_PDR_R=0XFF;//open drain
 
 ```
 - In the loop we write to turn on a stop sign for 30 seconds, then display the pattern of walk sign for 30 seconds, and then repeat.
+
+## Circuit Diagram
+
+<img src="/Capture.PNG?raw=true">
